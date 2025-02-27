@@ -1,0 +1,125 @@
+Day,First_Name,Last_Name,Position,Start,End
+Sunday,Paul,Hernandez,Manager,9,13
+Sunday,Jonah,Cavazos,Cook,10,14
+Sunday,Brian,Farley,Cook,10,14
+Sunday,Adrian,Flores,Assitant Manager,10,14
+Sunday,Zain,Flores,Cook,10,14
+Sunday,Paul,Hernandez,Manager,10,14
+Sunday,Victor,Jimenez,Cook,10,14
+Sunday,Arianna,Johnson,Cashier,10,14
+Sunday,Katherine,Joslyn,Assitant Manager,10,14
+Sunday,Treyvon,Lopez,Shift Lead,10,14
+Sunday,Makayla,Munoz,Cashier,10,14
+Sunday,Myra,Pena,Cashier,10,14
+Sunday,Jonah,Cavazos,Cook,11,15
+Sunday,Brian,Farley,Cook,11,15
+Sunday,Adrian,Flores,Assitant Manager,11,15
+Sunday,Zain,Flores,Cook,11,15
+Sunday,Paul,Hernandez,Manager,11,15
+Sunday,Victor,Jimenez,Cook,11,15
+Sunday,Arianna,Johnson,Cashier,11,15
+Sunday,Katherine,Joslyn,Assitant Manager,11,15
+Monday,Paul,Hernandez,Manager,9,13
+Monday,Jonah,Cavazos,Cook,10,14
+Monday,Brian,Farley,Cook,10,14
+Monday,Adrian,Flores,Assitant Manager,10,14
+Monday,Zain,Flores,Cook,10,14
+Monday,Paul,Hernandez,Manager,10,14
+Monday,Victor,Jimenez,Cook,10,14
+Monday,Arianna,Johnson,Cashier,10,14
+Monday,Katherine,Joslyn,Assitant Manager,10,14
+Monday,Treyvon,Lopez,Shift Lead,10,14
+Monday,Makayla,Munoz,Cashier,10,14
+Monday,Myra,Pena,Cashier,10,14
+Monday,Jonah,Cavazos,Cook,11,15
+Monday,Brian,Farley,Cook,11,15
+Tuesday,Paul,Hernandez,Manager,9,13
+Tuesday,Jonah,Cavazos,Cook,10,14
+Tuesday,Noah,Cisneros,Cook,12,14
+Tuesday,Brian,Farley,Cook,10,14
+Tuesday,Adrian,Flores,Assitant Manager,10,14
+Tuesday,Zain,Flores,Cook,10,14
+Tuesday,Paul,Hernandez,Manager,10,14
+Tuesday,Victor,Jimenez,Cook,10,14
+Tuesday,Arianna,Johnson,Cashier,10,14
+Tuesday,Katherine,Joslyn,Assitant Manager,10,14
+Tuesday,Treyvon,Lopez,Shift Lead,10,14
+Tuesday,Makayla,Munoz,Cashier,10,14
+Tuesday,Myra,Pena,Cashier,10,14
+Tuesday,Jonah,Cavazos,Cook,11,15
+Wednesday,Paul,Hernandez,Manager,9,13
+Wednesday,Jonah,Cavazos,Cook,10,14
+Wednesday,Noah,Cisneros,Cook,12,14
+Wednesday,Brian,Farley,Cook,10,14
+Wednesday,Adrian,Flores,Assitant Manager,10,14
+Wednesday,Zain,Flores,Cook,10,14
+Wednesday,Paul,Hernandez,Manager,10,14
+Wednesday,Victor,Jimenez,Cook,10,14
+Wednesday,Arianna,Johnson,Cashier,10,14
+Wednesday,Katherine,Joslyn,Assitant Manager,10,14
+Wednesday,Treyvon,Lopez,Shift Lead,10,14
+Wednesday,Makayla,Munoz,Cashier,10,14
+Wednesday,Myra,Pena,Cashier,10,14
+Wednesday,Jonah,Cavazos,Cook,11,15
+Wednesday,Noah,Cisneros,Cook,12,15
+Wednesday,Brian,Farley,Cook,11,15
+Thursday,Paul,Hernandez,Manager,9,13
+Thursday,Jonah,Cavazos,Cook,10,14
+Thursday,Noah,Cisneros,Cook,12,14
+Thursday,Brian,Farley,Cook,10,14
+Thursday,Adrian,Flores,Assitant Manager,10,14
+Thursday,Zain,Flores,Cook,10,14
+Thursday,Paul,Hernandez,Manager,10,14
+Thursday,Victor,Jimenez,Cook,10,14
+Thursday,Arianna,Johnson,Cashier,10,14
+Thursday,Katherine,Joslyn,Assitant Manager,10,14
+Thursday,Treyvon,Lopez,Shift Lead,10,14
+Thursday,Makayla,Munoz,Cashier,10,14
+Thursday,Myra,Pena,Cashier,10,14
+Thursday,Jonah,Cavazos,Cook,11,15
+Thursday,Noah,Cisneros,Cook,12,15
+Thursday,Brian,Farley,Cook,11,15
+Thursday,Adrian,Flores,Assitant Manager,11,15
+Thursday,Zain,Flores,Cook,11,15
+Friday,Paul,Hernandez,Manager,9,13
+Friday,Jonah,Cavazos,Cook,10,14
+Friday,Noah,Cisneros,Cook,12,14
+Friday,Brian,Farley,Cook,10,14
+Friday,Adrian,Flores,Assitant Manager,10,14
+Friday,Zain,Flores,Cook,10,14
+Friday,Paul,Hernandez,Manager,10,14
+Friday,Victor,Jimenez,Cook,10,14
+Friday,Arianna,Johnson,Cashier,10,14
+Friday,Katherine,Joslyn,Assitant Manager,10,14
+Friday,Treyvon,Lopez,Shift Lead,10,14
+Friday,Makayla,Munoz,Cashier,10,14
+Friday,Jonah,Cavazos,Cook,11,15
+Friday,Noah,Cisneros,Cook,12,15
+Friday,Brian,Farley,Cook,11,15
+Friday,Adrian,Flores,Assitant Manager,11,15
+Friday,Zain,Flores,Cook,11,15
+Friday,Paul,Hernandez,Manager,11,15
+Friday,Victor,Jimenez,Cook,11,15
+Friday,Arianna,Johnson,Cashier,11,15
+Friday,Katherine,Joslyn,Assitant Manager,11,15
+Saturday,Paul,Hernandez,Manager,9,13
+Saturday,Jonah,Cavazos,Cook,10,14
+Saturday,Noah,Cisneros,Cook,12,14
+Saturday,Brian,Farley,Cook,10,14
+Saturday,Adrian,Flores,Assitant Manager,10,14
+Saturday,Zain,Flores,Cook,10,14
+Saturday,Paul,Hernandez,Manager,10,14
+Saturday,Victor,Jimenez,Cook,10,14
+Saturday,Arianna,Johnson,Cashier,10,14
+Saturday,Katherine,Joslyn,Assitant Manager,10,14
+Saturday,Treyvon,Lopez,Shift Lead,10,14
+Saturday,Makayla,Munoz,Cashier,10,14
+Saturday,Myra,Pena,Cashier,10,14
+Saturday,Jonah,Cavazos,Cook,11,15
+Saturday,Noah,Cisneros,Cook,12,15
+Saturday,Brian,Farley,Cook,11,15
+Saturday,Adrian,Flores,Assitant Manager,11,15
+Saturday,Zain,Flores,Cook,11,15
+Saturday,Paul,Hernandez,Manager,11,15
+Saturday,Victor,Jimenez,Cook,11,15
+Saturday,Arianna,Johnson,Cashier,11,15
